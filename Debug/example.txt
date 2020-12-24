@@ -1,0 +1,5 @@
+P1->aP2|bP2
+P2->aP3|bP1
+P3->aP2|bP2
+P4->aP2|bP2
+P5->aP2|bP2
